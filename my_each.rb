@@ -6,10 +6,9 @@ def my_each(array)
   yield 
 end
 
-def method do 
+
   array[i]
-end
-end
+
 
 return array  
 end
