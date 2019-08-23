@@ -7,7 +7,7 @@ def my_each(array)
 end
 
 
-  array[i]
+  array[0]
 
 
  
