@@ -9,6 +9,7 @@ end
 def method do 
   array[i]
 end
+end
 
 return array  
 end
