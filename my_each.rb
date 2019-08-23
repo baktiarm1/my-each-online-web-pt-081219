@@ -5,6 +5,6 @@ def my_each(array)
   i+=1 
 end
 
-puts array[i]
+array[i]
 return array  
 end
