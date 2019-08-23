@@ -6,6 +6,7 @@ def my_each(array)
   yield 
 end
 
-array[i]
+meth do array[i]
+
 return array  
 end
